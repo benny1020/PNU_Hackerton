@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable-v24/eat_clicked.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/btn_background.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/dialog_border.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/ic_card_add.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/item_border.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/menu_selector_color.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/pager_background.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/pager_backgrount.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/progressbar.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/progressbar2.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/drawable/result_item_border.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_camera_result.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_current_height.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_current_weight.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_fix_item.xml" value="0.22" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_fix_search_result.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_private_fix.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_recommend_list.xml" value="0.22" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_recommend_result.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_search_result.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_setting.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_sex.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_tan_dan_ji_setting.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_target_weight.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_water_setting.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/card_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/custo_dialog_fixver.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/custom_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/custom_dialog_fixVer.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/custom_dialog_fixver.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/fragment_one.xml" value="0.22" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/fragment_two.xml" value="0.33605072463768115" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/page.xml" value="0.5" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/pagewater.xml" value="0.33605072463768115" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/result_rv_item.xml" value="1.3333333333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/layout/row_item.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/jhl81/OneDrive/NutriPedia/testRecyclerView/app/src/main/res/menu/setting_detail.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/wogud/androidProject/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_private_fix.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/wogud/androidProject/NutriPedia/testRecyclerView/app/src/main/res/layout/activity_setting.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/wogud/androidProject/testRecyclerView/app/src/main/res/layout/activity_camera_result.xml" value="0.264" />
+        <entry key="..\:/Users/wogud/androidProject/testRecyclerView/app/src/main/res/layout/activity_current_weight.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/wogud/androidProject/testRecyclerView/app/src/main/res/layout/activity_fix_item.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/wogud/androidProject/testRecyclerView/app/src/main/res/layout/activity_fix_search_result.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/wogud/androidProject/testRecyclerView/app/src/main/res/layout/activity_recommend_result.xml" value="0.348731884057971" />
+        <entry key="..\:/Users/wogud/androidProject/testRecyclerView/app/src/main/res/layout/activity_search_result.xml" value="0.353713768115942" />
+        <entry key="..\:/Users/wogud/androidProject/testRecyclerView/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_camera_result.xml" value="0.33061594202898553" />
+        <entry key="app/src/main/res/layout/activity_current_weight.xml" value="0.1641337386018237" />
+        <entry key="app/src/main/res/layout/activity_fix_item.xml" value="0.3375" />
+        <entry key="app/src/main/res/layout/activity_fix_search_result.xml" value="0.3375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.6163083713436269" />
+        <entry key="app/src/main/res/layout/activity_previous.xml" value="0.3375" />
+        <entry key="app/src/main/res/layout/activity_recommend_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_search_result.xml" value="0.3375" />
+        <entry key="app/src/main/res/layout/activity_tan_dan_ji_setting.xml" value="0.3079710144927536" />
+        <entry key="app/src/main/res/layout/card_layout.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/clicked_date_dialog.xml" value="0.2740628166160081" />
+        <entry key="app/src/main/res/layout/custom_dialog.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/layout/custom_dialog_fixver.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/layout/fix_edittext_water.xml" value="0.1641337386018237" />
+        <entry key="app/src/main/res/layout/fragment_one.xml" value="0.3375" />
+        <entry key="app/src/main/res/layout/fragment_two.xml" value="0.2740628166160081" />
+        <entry key="app/src/main/res/layout/item_schedule.xml" value="0.2740628166160081" />
+        <entry key="app/src/main/res/layout/page.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/pagewater.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/layout/pagewater_pre.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/layout/pre_card_layout.xml" value="0.16944444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

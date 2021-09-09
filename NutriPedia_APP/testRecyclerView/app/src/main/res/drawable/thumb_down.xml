@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"
+        android:drawable="@drawable/icons8_thumbs_down_filled_24" />
+
+    <item android:drawable="@drawable/icons8_thumbs_down_24" />
+
+</selector>

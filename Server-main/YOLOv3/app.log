@@ -1,0 +1,781 @@
+nohup: ignoring input
+ * Serving Flask app "WebAPI" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+125.243.32.134 - - [25/Feb/2021 11:45:53] "[37mGET /uploader HTTP/1.1[0m" 200 -
+125.243.32.134 - - [25/Feb/2021 11:46:05] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+125.243.32.134 - - [25/Feb/2021 11:47:41] "[37mGET /uploader HTTP/1.1[0m" 200 -
+125.243.32.134 - - [25/Feb/2021 11:48:53] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+125.243.32.134 - - [25/Feb/2021 12:02:43] "[37mGET /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 12:27:29] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 12:27:58] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 12:33:11] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 12:43:30] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 12:44:22] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 12:58:19] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 12:59:52] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:09:29] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:11:49] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:14:56] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:16:51] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+1
+out.shape :  (507, 3170)
+obj score:  0.9699368  - confidence: 0.9692912  - thres :  0.1
+obj score:  0.4339592  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 587, "framewidth": 2449, "ClassName": "바게트빵", "w": 1205, "ClassID": "A020112", "h": 536, "frameheight": 1633, "y": 459}]
+elapsed time: 1.260960578918457
+1
+out.shape :  (507, 3170)
+obj score:  0.9699368  - confidence: 0.9692912  - thres :  0.1
+obj score:  0.4339592  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 587, "framewidth": 2449, "ClassName": "바게트빵", "w": 1205, "ClassID": "A020112", "h": 536, "frameheight": 1633, "y": 459}]
+elapsed time: 1.1979155540466309
+1
+out.shape :  (507, 3170)
+obj score:  0.1948593  - confidence: 0.0  - thres :  0.1
+obj score:  0.12583147  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.3625829219818115
+1
+out.shape :  (507, 3170)
+obj score:  0.37945047  - confidence: 0.0  - thres :  0.1
+obj score:  0.56398195  - confidence: 0.26541716  - thres :  0.1
+obj score:  0.27739364  - confidence: 0.0  - thres :  0.1
+obj score:  0.116471924  - confidence: 0.0  - thres :  0.1
+obj score:  0.2095417  - confidence: 0.0  - thres :  0.1
+obj score:  0.4742067  - confidence: 0.0  - thres :  0.1
+obj score:  0.17590275  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": -296, "framewidth": 3000, "ClassName": "물미역", "w": 2670, "ClassID": "A260206", "h": 2452, "frameheight": 4000, "y": 1119}]
+elapsed time: 1.4194393157958984
+1
+out.shape :  (507, 3170)
+obj score:  0.15587588  - confidence: 0.0  - thres :  0.1
+obj score:  0.28064254  - confidence: 0.0  - thres :  0.1
+obj score:  0.7351788  - confidence: 0.0  - thres :  0.1
+obj score:  0.3750209  - confidence: 0.0  - thres :  0.1
+obj score:  0.9473051  - confidence: 0.0  - thres :  0.1
+obj score:  0.45665538  - confidence: 0.37565553  - thres :  0.1
+obj score:  0.14845182  - confidence: 0.0  - thres :  0.1
+obj score:  0.512298  - confidence: 0.0  - thres :  0.1
+obj score:  0.7468566  - confidence: 0.7288364  - thres :  0.1
+obj score:  0.109174296  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 353, "framewidth": 3024, "ClassName": "인삼", "w": 2374, "ClassID": "A260173", "h": 2266, "frameheight": 4032, "y": 1116}]
+elapsed time: 1.4284100532531738
+1
+out.shape :  (507, 3170)
+obj score:  0.27045858  - confidence: 0.0  - thres :  0.1
+obj score:  0.5211713  - confidence: 0.0  - thres :  0.1
+obj score:  0.25349522  - confidence: 0.0  - thres :  0.1
+obj score:  0.48735508  - confidence: 0.0  - thres :  0.1
+obj score:  0.11656608  - confidence: 0.0  - thres :  0.1
+obj score:  0.6559611  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.4360933303833008
+1
+out.shape :  (507, 3170)
+obj score:  0.3123151  - confidence: 0.0  - thres :  0.1
+obj score:  0.6347401  - confidence: 0.0  - thres :  0.1
+obj score:  0.46009225  - confidence: 0.0  - thres :  0.1
+obj score:  0.9065884  - confidence: 0.0  - thres :  0.1
+obj score:  0.9836128  - confidence: 0.0  - thres :  0.1
+obj score:  0.984327  - confidence: 0.9285645  - thres :  0.1
+obj score:  0.93019205  - confidence: 0.0  - thres :  0.1
+obj score:  0.17871094  - confidence: 0.0  - thres :  0.1
+obj score:  0.69968784  - confidence: 0.0  - thres :  0.1
+obj score:  0.56702  - confidence: 0.0  - thres :  0.1
+obj score:  0.28111064  - confidence: 0.0  - thres :  0.1
+obj score:  0.12126979  - confidence: 0.0  - thres :  0.1
+obj score:  0.6704581  - confidence: 0.669163  - thres :  0.1
+obj score:  0.5470945  - confidence: 0.0  - thres :  0.1
+obj score:  0.3136402  - confidence: 0.0  - thres :  0.1
+obj score:  0.1065458  - confidence: 0.0  - thres :  0.1
+obj score:  0.13982871  - confidence: 0.0  - thres :  0.1
+obj score:  0.18792705  - confidence: 0.0  - thres :  0.1
+obj score:  0.19129182  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 6, "framewidth": 3000, "ClassName": "바게트빵", "w": 2987, "ClassID": "A020112", "h": 2335, "frameheight": 4000, "y": 540}]
+elapsed time: 1.373570442199707
+1
+out.shape :  (507, 3170)
+obj score:  0.12036621  - confidence: 0.0  - thres :  0.1
+obj score:  0.17435054  - confidence: 0.0  - thres :  0.1
+obj score:  0.17181547  - confidence: 0.0  - thres :  0.1
+obj score:  0.938802  - confidence: 0.0  - thres :  0.1
+obj score:  0.96647227  - confidence: 0.3490205  - thres :  0.1
+obj score:  0.9648599  - confidence: 0.3455422  - thres :  0.1
+obj score:  0.96931654  - confidence: 0.9245625  - thres :  0.1
+obj score:  0.4979174  - confidence: 0.0  - thres :  0.1
+obj score:  0.6078051  - confidence: 0.0  - thres :  0.1
+obj score:  0.8428788  - confidence: 0.0  - thres :  0.1
+obj score:  0.9461159  - confidence: 0.31178638  - thres :  0.1
+obj score:  0.9447938  - confidence: 0.0  - thres :  0.1
+obj score:  0.5474485  - confidence: 0.0  - thres :  0.1
+obj score:  0.14338121  - confidence: 0.0  - thres :  0.1
+obj score:  0.10363934  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 331, "framewidth": 3024, "ClassName": "마늘빵", "w": 2811, "ClassID": "A020108", "h": 2269, "frameheight": 4032, "y": 955}]
+elapsed time: 1.460747480392456
+1
+out.shape :  (507, 3170)
+obj score:  0.7571344  - confidence: 0.0  - thres :  0.1
+obj score:  0.95487005  - confidence: 0.89353234  - thres :  0.1
+obj score:  0.9589344  - confidence: 0.0  - thres :  0.1
+obj score:  0.9145004  - confidence: 0.0  - thres :  0.1
+obj score:  0.30208638  - confidence: 0.0  - thres :  0.1
+obj score:  0.30014905  - confidence: 0.0  - thres :  0.1
+obj score:  0.7086738  - confidence: 0.0  - thres :  0.1
+obj score:  0.84738624  - confidence: 0.0  - thres :  0.1
+obj score:  0.7692006  - confidence: 0.0  - thres :  0.1
+obj score:  0.110810764  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": -148, "framewidth": 3024, "ClassName": "마늘빵", "w": 2868, "ClassID": "A020108", "h": 2069, "frameheight": 4032, "y": 1058}]
+elapsed time: 1.3806674480438232
+1
+out.shape :  (507, 3170)
+obj score:  0.18695068  - confidence: 0.0  - thres :  0.1
+obj score:  0.37288356  - confidence: 0.36899096  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 878, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1241, "ClassID": "A240213", "h": 1488, "frameheight": 4032, "y": 1191}]
+elapsed time: 1.474802017211914
+1
+out.shape :  (507, 3170)
+obj score:  0.59684366  - confidence: 0.59596765  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 906, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1260, "ClassID": "A240213", "h": 1528, "frameheight": 4032, "y": 1509}]
+elapsed time: 1.4641056060791016
+1
+out.shape :  (507, 3170)
+obj score:  0.20400363  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.4233872890472412
+1
+out.shape :  (507, 3170)
+obj score:  0.47585425  - confidence: 0.46526697  - thres :  0.1
+obj score:  0.13532557  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 845, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1254, "ClassID": "A240213", "h": 1675, "frameheight": 4032, "y": 936}]
+elapsed time: 1.4147543907165527
+1
+out.shape :  (507, 3170)
+obj score:  0.24081504  - confidence: 0.0  - thres :  0.1
+obj score:  0.5732863  - confidence: 0.0  - thres :  0.1
+obj score:  0.7034317  - confidence: 0.0  - thres :  0.1
+obj score:  0.34889942  - confidence: 0.0  - thres :  0.1
+obj score:  0.8115133  - confidence: 0.5817147  - thres :  0.1
+obj score:  0.96638817  - confidence: 0.0  - thres :  0.1
+obj score:  0.97867537  - confidence: 0.97723  - thres :  0.1
+obj score:  0.5284866  - confidence: 0.2205038  - thres :  0.1
+obj score:  0.9352525  - confidence: 0.0  - thres :  0.1
+obj score:  0.97035486  - confidence: 0.0  - thres :  0.1
+obj score:  0.9616611  - confidence: 0.0  - thres :  0.1
+obj score:  0.93727493  - confidence: 0.0  - thres :  0.1
+obj score: 118.67.133.131 - - [25/Feb/2021 13:21:19] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:27:43] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:40:44] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:54:02] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:54:43] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:57:56] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 13:58:18] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:00:19] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:00:45] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:01:04] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:01:19] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:01:37] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:01:50] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:02:06] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+ 0.9439137  - confidence: 0.0  - thres :  0.1
+obj score:  0.2232606  - confidence: 0.0  - thres :  0.1
+obj score:  0.92962205  - confidence: 0.8811631  - thres :  0.1
+obj score:  0.9636179  - confidence: 0.6999781  - thres :  0.1
+obj score:  0.8984838  - confidence: 0.0  - thres :  0.1
+obj score:  0.67779773  - confidence: 0.0  - thres :  0.1
+obj score:  0.49658996  - confidence: 0.0  - thres :  0.1
+obj score:  0.16618112  - confidence: 0.0  - thres :  0.1
+obj score:  0.14594193  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 999, "framewidth": 3024, "ClassName": "바게트빵", "w": 1878, "ClassID": "A020112", "h": 3373, "frameheight": 4032, "y": 339}]
+elapsed time: 1.428248405456543
+1
+out.shape :  (507, 3170)
+obj score:  0.1124442  - confidence: 0.0  - thres :  0.1
+obj score:  0.19231246  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.394395112991333
+1
+out.shape :  (507, 3170)
+obj score:  0.10592354  - confidence: 0.0  - thres :  0.1
+obj score:  0.23797987  - confidence: 0.0  - thres :  0.1
+obj score:  0.48428386  - confidence: 0.0  - thres :  0.1
+obj score:  0.6837413  - confidence: 0.0  - thres :  0.1
+obj score:  0.9344378  - confidence: 0.0  - thres :  0.1
+obj score:  0.96961516  - confidence: 0.5889796  - thres :  0.1
+obj score:  0.98047364  - confidence: 0.9769158  - thres :  0.1
+obj score:  0.22957435  - confidence: 0.0  - thres :  0.1
+obj score:  0.4286951  - confidence: 0.0  - thres :  0.1
+obj score:  0.7285218  - confidence: 0.0  - thres :  0.1
+obj score:  0.56875646  - confidence: 0.0  - thres :  0.1
+obj score:  0.27573687  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 968, "framewidth": 3024, "ClassName": "바게트빵", "w": 1962, "ClassID": "A020112", "h": 2989, "frameheight": 4032, "y": 796}]
+elapsed time: 1.4690446853637695
+1
+out.shape :  (507, 3170)
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.4028847217559814
+1
+out.shape :  (507, 3170)
+obj score:  0.1482152  - confidence: 0.0  - thres :  0.1
+obj score:  0.23114434  - confidence: 0.23055753  - thres :  0.1
+obj score:  0.22987355  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 797, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1332, "ClassID": "A240213", "h": 1735, "frameheight": 4032, "y": 897}]
+elapsed time: 1.3675835132598877
+1
+out.shape :  (507, 3170)
+obj score:  0.106485896  - confidence: 0.0  - thres :  0.1
+obj score:  0.13856125  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.4121015071868896
+1
+out.shape :  (507, 3170)
+obj score:  0.4626748  - confidence: 0.3870303  - thres :  0.1
+obj score:  0.1725152  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 804, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1288, "ClassID": "A240213", "h": 1613, "frameheight": 4032, "y": 1495}]
+elapsed time: 1.3647465705871582
+1
+out.shape :  (507, 3170)
+obj score:  0.5277948  - confidence: 0.51834565  - thres :  0.1
+obj score:  0.16254549  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 1119, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1153, "ClassID": "A240213", "h": 1733, "frameheight": 4032, "y": 1486}]
+elapsed time: 1.4336187839508057
+1
+out.shape :  (507, 3170)
+obj score:  0.22919439  - confidence: 0.0  - thres :  0.1
+obj score:  0.10506311  - confidence: 0.0  - thres :  0.1
+obj score:  0.4933572  - confidence: 0.49276498  - thres :  0.1
+obj score:  0.11302084  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 1093, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1271, "ClassID": "A240213", "h": 1594, "frameheight": 4032, "y": 1446}]
+elapsed time: 1.4358241558074951
+1
+out.shape :  (507, 3170)
+obj score:  0.28573737  - confidence: 0.0  - thres :  0.1
+obj score:  0.8015044  - confidence: 0.26266626  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.19794518  - confidence: 0.0  - thres :  0.1
+obj score:  0.20874026  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 1058, "framewidth": 3024, "ClassName": "크로와상", "w": 1299, "ClassID": "A020140", "h": 1221, "frameheight": 4032, "y": 1614}]
+elapsed time: 1.489638090133667
+1
+out.shape :  (507, 3170)
+obj score:  0.75523084  - confidence: 0.37170273  - thres :  0.1
+obj score:  0.28939563  - confidence: 0.0  - thres :  0.1
+obj score:  0.7408998  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 501, "framewidth": 3024, "ClassName": "크로와상", "w": 1652, "ClassID": "A020140", "h": 1587, "frameheight": 4032, "y": 1334}]
+elapsed time: 1.3848927021026611
+1
+out.shape :  (507, 3170)
+obj score:  0.3230213  - confidence: 0.0  - thres :  0.1
+obj score:  0.5809328  - confidence: 0.0  - thres :  0.1
+obj score:  0.15432024  - confidence: 0.0  - thres :  0.1
+obj score:  0.25433567  - confidence: 0.0  - thres :  0.1
+obj score:  0.78212863  - confidence: 0.0  - thres :  0.1
+obj score:  0.70299566  - confidence: 0.0  - thres :  0.1
+obj score:  0.37560314  - confidence: 0.0  - thres :  0.1
+obj score:  0.845549  - confidence: 0.8444035  - thres :  0.1
+obj score:  0.7051678  - confidence: 0.0  - thres :  0.1
+obj score:  0.28123766  - confidence: 0.0  - thres :  0.1
+obj score:  0.73580647  - confidence: 0.0  - thres :  0.1
+obj score:  0.37738693  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 714, "framewidth": 3024, "ClassName": "인삼", "w": 1596, "ClassID": "A260173", "h": 3359, "frameheight": 4032, "y": 328}]
+elapsed time: 1.412980079650879
+1
+out.shape :  (507, 3170)
+obj score:  0.31659618  - confidence: 0.0  - thres :  0.1
+obj score:  0.57621807  - confidence: 0.56266874  - thres :  0.1
+obj score:  0.24399075  - confidence: 0.0  - thres :  0.1
+obj score:  0.12713125  - confidence: 0.0  - thres :  0.1
+obj score:  0.38459858  - confidence: 0.0  - thres :  0.1
+obj score:  0.4522718  - confidence: 0.0  - thres :  0.1
+obj score:  0.1006953  - confidence: 0.0  - thres :  0.1
+obj score:  0.4302598  - confidence: 0.0  - thres :  0.1
+obj score:  0.7841026  - confidence: 0.77369595  - thres :  0.1
+obj score:  0.3978546  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 427, "framewidth": 3024, "ClassName": "인삼", "w": 2149, "ClassID": "A260173", "h": 2219, "frameheight": 4032, "y": 1516}]
+elapsed time: 1.4444103240966797
+1
+out.shape :  (507, 3170)
+obj score:  0.34088856  - confidence: 0.0  - thres :  0.1
+obj score:  0.14119281  - confidence: 0.0  - thres :  0.1
+obj score:  0.75490195  - confidence: 0.0  - thres :  0.1
+obj score:  0.25953686  - confidence: 0.0  - thres :  0.1
+obj score:  0.30911738  - confidence: 0.0  - thres :  0.1
+obj score:  0.14204596  - confidence: 0.0  - thres :  0.1
+obj score:  0.76160324  - confidence: 0.0  - thres :  0.1
+obj score:  0.8907277  - confidence: 0.7077889  - thres :  0.1
+obj score:  0.50361794  - confidence: 0.43511122  - thres :  0.1
+obj score:  0.23731157  - confidence: 0.0  - thres :  0.1
+obj score:  0.4075222  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 244, "framewidth": 3024, "ClassName": "인삼", "w": 2577, "ClassID": "A260173", "h": 2124, "frameheight": 4032, "y": 1234}]
+elapsed time: 1.4357001781463623
+1
+out.shape :  (507, 3170)
+obj score:  0.19834714  - confidence: 0.0  - thres :  0.1
+obj score:  0.15484245  - confidence: 0.0  - thres :  0.1
+obj score:  0.17233108  - confidence: 0.0  - thres :  0.1
+obj score:  0.3800572  - confidence: 0.0  - thres :  0.1
+obj score:  0.3494113  - confidence: 0.0  - thres :  0.1
+obj score:  0.4475223  - confidence: 0.4456543  - thres :  0.1
+obj score:  0.2762655  - confidence: 0.0  - thres :  0.1
+obj score:  0.28315282  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 334, "framewidth": 3024, "ClassName": "바게트빵", "w": 2301, "ClassID": "A020112", "h": 1203, "frameheight": 4032, "y": 1674}]
+elapsed time:118.67.133.131 - - [25/Feb/2021 14:02:17] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:02:38] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:04:22] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:05:31] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:10:03] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:10:13] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:10:26] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:10:47] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:11:00] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:11:27] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:17:33] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:18:22] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:18:42] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:20:34] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:21:01] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:21:24] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:24:42] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:24:57] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:30:18] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:31:30] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 14:35:02] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+ 1.4776935577392578
+1
+out.shape :  (507, 3170)
+obj score:  0.13977608  - confidence: 0.0  - thres :  0.1
+obj score:  0.40138003  - confidence: 0.0  - thres :  0.1
+obj score:  0.24594568  - confidence: 0.23857212  - thres :  0.1
+obj score:  0.57038766  - confidence: 0.0  - thres :  0.1
+obj score:  0.51924306  - confidence: 0.0  - thres :  0.1
+obj score:  0.3797294  - confidence: 0.0  - thres :  0.1
+obj score:  0.4555872  - confidence: 0.0  - thres :  0.1
+obj score:  0.5556125  - confidence: 0.0  - thres :  0.1
+obj score:  0.63370585  - confidence: 0.0  - thres :  0.1
+obj score:  0.10338429  - confidence: 0.0  - thres :  0.1
+obj score:  0.69885117  - confidence: 0.69734144  - thres :  0.1
+obj score:  0.1428422  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 1190, "framewidth": 3024, "ClassName": "인삼", "w": 1470, "ClassID": "A260173", "h": 2747, "frameheight": 4032, "y": 952}]
+elapsed time: 1.4635474681854248
+1
+out.shape :  (507, 3170)
+obj score:  0.3121353  - confidence: 0.2677779  - thres :  0.1
+obj score:  0.27198926  - confidence: 0.0  - thres :  0.1
+obj score:  0.12370876  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 834, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1207, "ClassID": "A240213", "h": 1923, "frameheight": 4032, "y": 1074}]
+elapsed time: 1.3749988079071045
+1
+out.shape :  (507, 3170)
+obj score:  0.23038213  - confidence: 0.0  - thres :  0.1
+obj score:  0.22028722  - confidence: 0.0  - thres :  0.1
+obj score:  0.51938665  - confidence: 0.51795214  - thres :  0.1
+obj score:  0.11246048  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 899, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1206, "ClassID": "A240213", "h": 1713, "frameheight": 4032, "y": 761}]
+elapsed time: 1.366853952407837
+1
+out.shape :  (507, 3170)
+obj score:  0.10524843  - confidence: 0.0  - thres :  0.1
+obj score:  0.105505824  - confidence: 0.0  - thres :  0.1
+obj score:  0.31181413  - confidence: 0.0  - thres :  0.1
+obj score:  0.16310786  - confidence: 0.0  - thres :  0.1
+obj score:  0.10271885  - confidence: 0.0  - thres :  0.1
+obj score:  0.13271685  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.4340720176696777
+1
+out.shape :  (507, 3170)
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.420990228652954
+1
+out.shape :  (507, 3170)
+obj score:  0.15967932  - confidence: 0.0  - thres :  0.1
+obj score:  0.2252205  - confidence: 0.22299531  - thres :  0.1
+obj score:  0.2346376  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 108, "framewidth": 3024, "ClassName": "인삼", "w": 1959, "ClassID": "A260173", "h": 2938, "frameheight": 4032, "y": 245}]
+elapsed time: 1.4275736808776855
+1
+out.shape :  (507, 3170)
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.4287307262420654
+1
+out.shape :  (507, 3170)
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[]
+elapsed time: 1.440711498260498
+1
+out.shape :  (507, 3170)
+obj score:  0.24393104  - confidence: 0.24038877  - thres :  0.1
+obj score:  0.18885124  - confidence: 0.0  - thres :  0.1
+obj score:  0.17533804  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 985, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1160, "ClassID": "A240213", "h": 1670, "frameheight": 4032, "y": 1160}]
+elapsed time: 1.4569928646087646
+1
+out.shape :  (507, 3170)
+obj score:  0.8831976  - confidence: 0.8825878  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.100112535  - confidence: 0.0  - thres :  0.1
+obj score:  0.18269368  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 542, "framewidth": 1440, "ClassName": "쑥개떡", "w": 328, "ClassID": "A240213", "h": 264, "frameheight": 960, "y": 358}]
+elapsed time: 1.1435835361480713
+1
+out.shape :  (507, 3170)
+obj score:  0.8831976  - confidence: 0.8825878  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.100112535  - confidence: 0.0  - thres :  0.1
+obj score:  0.18269368  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 542, "framewidth": 1440, "ClassName": "쑥개떡", "w": 328, "ClassID": "A240213", "h": 264, "frameheight": 960, "y": 358}]
+elapsed time: 1.1468613147735596
+1
+out.shape :  (507, 3170)
+obj score:  0.8831976  - confidence: 0.8825878  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.100112535  - confidence: 0.0  - thres :  0.1
+obj score:  0.18269368  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 542, "framewidth": 1440, "ClassName": "쑥개떡", "w": 328, "ClassID": "A240213", "h": 264, "frameheight": 960, "y": 358}]
+elapsed time: 1.149827241897583
+1
+out.shape :  (507, 3170)
+obj score:  0.8831976  - confidence: 0.8825878  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.100112535  - confidence: 0.0  - thres :  0.1
+obj score:  0.18269368  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 542, "framewidth": 1440, "ClassName": "쑥개떡", "w": 328, "ClassID": "A240213", "h": 264, "frameheight": 960, "y": 358}]
+elapsed time: 1.175755500793457
+1
+out.shape :  (507, 3170)
+obj score:  0.62764424  - confidence: 0.6256275  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 1150, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1212, "ClassID": "A240213", "h": 1548, "frameheight": 4032, "y": 1187}]
+elapsed time: 1.4258933067321777
+1
+out.shape :  (507, 3170)
+obj score:  0.52433866  - confidence: 0.5084444  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 969, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1164, "ClassID": "A240213", "h": 1672, "frameheight": 4032, "y": 1119}]
+elapsed time: 1.4331374168395996
+1
+out.shape :  (507, 3170)
+obj score:  0.787515  - confidence: 0.7868684  - thres :  0.1
+obj score:  0.23706035  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 892, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1283, "ClassID": "A240213", "h": 1604, "frameheight": 4032, "y": 1233}]
+elapsed time: 1.3713304996490479
+1
+out.shape :  (507, 3170)
+obj score:  0.22964941  - confidence: 0.0  - thres :  0.1
+obj score:  0.23363326  - confidence: 0.22887903  - thres :  0.1
+obj score:  0.14445809  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 756, "framewidth": 3024, "ClassName": "쑥개떡", "w": 1559, "ClassID": "A240213", "h": 2601, "frameheight": 4032, "y": 1105}]
+elapsed time: 1.427886724472046
+1
+out.shape :  (507, 3170)
+obj score:  0.8831976  - confidence: 0.8825878  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.100112535  - confidence: 0.0  - thres :  0.1
+obj score:  0.18269368  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 542, "framewidth": 1440, "ClassName": "쑥개떡", "w": 328, "ClassID": "A240213", "h": 264, "frameheight": 960, "y": 358}]
+elapsed time: 1.1846718788146973
+1
+out.shape :  (507, 3170)
+obj score:  0.8831976  - confidence: 0.8825878  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.100112535  - confidence: 0.0  - thres :  0.1
+obj score:  0.18269368  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 542, "framewidth": 1440, "ClassName": "쑥개떡", "w": 328, "ClassID": "A240213", "h": 264, "frameheight": 960, "y": 358}]
+elapsed time: 1.1431877613067627
+1
+out.shape :  (507, 3170)
+obj score:  0.9699368  - confidence: 0.9692912  - thres :  0.1
+obj score:  0.4339592  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 587, "framewidth": 2449, "ClassName": "바게트빵", "w": 1205, "ClassID": "A020112", "h": 536, "frameheight": 1633, "y": 459}]
+elapsed time: 1.2475743293762207
+1
+out.shape :  (507, 3170)
+obj score:  0.12023228  - confidence: 0.0  - thres :  0.1
+obj score:  0.17567517  - confidence: 0.0  - thres :  0.1
+obj score:  0.6763358  - confidence: 0.0  - thres :  0.1
+obj score:  0.6854099  - confidence: 0.0  - thres :  0.1
+obj score:  0.2520209  - confidence: 0.0  - thres :  0.1
+obj score:  0.6032635118.67.133.131 - - [25/Feb/2021 15:56:04] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 16:13:35] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+125.243.32.134 - - [25/Feb/2021 16:13:40] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 18:03:17] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+185.176.222.73 - - [25/Feb/2021 18:12:41] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+185.176.222.73 - - [25/Feb/2021 18:12:41] "[35m[1m  /*à     Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+112.222.233.60 - - [25/Feb/2021 18:26:59] "[37mGET /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:26:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+112.222.233.60 - - [25/Feb/2021 18:27:35] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:29:28] "[37mGET /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:30:24] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:32:13] "[37mGET /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:32:18] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:33:23] "[37mGET /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:33:28] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:33:32] "[37mGET /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:34:17] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:34:40] "[37mGET /uploader HTTP/1.1[0m" 200 -
+112.222.233.60 - - [25/Feb/2021 18:46:04] "[37mGET /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 21:02:04] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 21:25:44] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+  - confidence: 0.0  - thres :  0.1
+obj score:  0.20871645  - confidence: 0.0  - thres :  0.1
+obj score:  0.34965545  - confidence: 0.0  - thres :  0.1
+obj score:  0.61426884  - confidence: 0.5435659  - thres :  0.1
+obj score:  0.58661675  - confidence: 0.20092449  - thres :  0.1
+obj score:  0.43507951  - confidence: 0.0  - thres :  0.1
+obj score:  0.22605768  - confidence: 0.0  - thres :  0.1
+obj score:  0.32287803  - confidence: 0.0  - thres :  0.1
+obj score:  0.15556556  - confidence: 0.0  - thres :  0.1
+obj score:  0.23649815  - confidence: 0.22256704  - thres :  0.1
+obj score:  0.17545334  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 105, "framewidth": 3000, "ClassName": "인삼", "w": 1851, "ClassID": "A260173", "h": 3264, "frameheight": 4000, "y": 377}]
+elapsed time: 1.863832950592041
+1
+out.shape :  (507, 3170)
+obj score:  0.19051495  - confidence: 0.0  - thres :  0.1
+obj score:  0.48144218  - confidence: 0.458524  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 722, "framewidth": 3000, "ClassName": "쑥개떡", "w": 1134, "ClassID": "A240213", "h": 1978, "frameheight": 4000, "y": 931}]
+elapsed time: 1.3272285461425781
+1
+out.shape :  (507, 3170)
+obj score:  0.11947048  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.32518157  - confidence: 0.0  - thres :  0.1
+obj score:  0.24873595  - confidence: 0.0  - thres :  0.1
+obj score:  0.65438396  - confidence: 0.2968539  - thres :  0.1
+obj score:  0.4461359  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 972, "framewidth": 2449, "ClassName": "백설기", "w": 448, "ClassID": "A240208", "h": 397, "frameheight": 1633, "y": 568}]
+elapsed time: 1.5738656520843506
+1
+out.shape :  (507, 3170)
+obj score:  0.9699368  - confidence: 0.9692912  - thres :  0.1
+obj score:  0.4339592  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 587, "framewidth": 2449, "ClassName": "바게트빵", "w": 1205, "ClassID": "A020112", "h": 536, "frameheight": 1633, "y": 459}]
+elapsed time: 1.5469915866851807
+1
+out.shape :  (507, 3170)
+obj score:  0.47187752  - confidence: 0.0  - thres :  0.1
+obj score:  0.73515135  - confidence: 0.0  - thres :  0.1
+obj score:  0.89592934  - confidence: 0.0  - thres :  0.1
+obj score:  0.96933305  - confidence: 0.96238387  - thres :  0.1
+obj score:  0.3389606  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 23, "framewidth": 631, "ClassName": "바게트빵", "w": 578, "ClassID": "A020112", "h": 193, "frameheight": 412, "y": 70}]
+elapsed time: 1.321312665939331
+1
+out.shape :  (507, 3170)
+obj score:  0.50584483  - confidence: 0.0  - thres :  0.1
+obj score:  0.96033764  - confidence: 0.0  - thres :  0.1
+obj score:  0.8447239  - confidence: 0.0  - thres :  0.1
+obj score:  0.7502764  - confidence: 0.59348595  - thres :  0.1
+obj score:  0.93652487  - confidence: 0.0  - thres :  0.1
+obj score:  0.9818812  - confidence: 0.0  - thres :  0.1
+obj score:  0.99484694  - confidence: 0.990013  - thres :  0.1
+obj score:  0.94469273  - confidence: 0.0  - thres :  0.1
+obj score:  0.2582266  - confidence: 0.2394657  - thres :  0.1
+obj score:  0.9921096  - confidence: 0.3964678  - thres :  0.1
+obj score:  0.9838696  - confidence: 0.0  - thres :  0.1
+obj score:  0.9781804  - confidence: 0.0  - thres :  0.1
+obj score:  0.9821507  - confidence: 0.0  - thres :  0.1
+obj score:  0.8417759  - confidence: 0.0  - thres :  0.1
+obj score:  0.24276164  - confidence: 0.0  - thres :  0.1
+obj score:  0.9119776  - confidence: 0.0  - thres :  0.1
+obj score:  0.77694094  - confidence: 0.0  - thres :  0.1
+obj score:  0.56311333  - confidence: 0.0  - thres :  0.1
+obj score:  0.35500804  - confidence: 0.0  - thres :  0.1
+obj score:  0.1245117  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 86, "framewidth": 393, "ClassName": "마늘빵", "w": 284, "ClassID": "A020108", "h": 190, "frameheight": 215, "y": -4}]
+elapsed time: 1.4504072666168213
+1
+out.shape :  (507, 3170)
+obj score:  0.69516087  - confidence: 0.0  - thres :  0.1
+obj score:  0.95567626  - confidence: 0.49878195  - thres :  0.1
+obj score:  0.69158787  - confidence: 0.0  - thres :  0.1
+obj score:  0.13157818  - confidence: 0.0  - thres :  0.1
+obj score:  0.4012235  - confidence: 0.0  - thres :  0.1
+obj score:  0.97148275  - confidence: 0.9670613  - thres :  0.1
+obj score:  0.8570264  - confidence: 0.0  - thres :  0.1
+obj score:  0.29068857  - confidence: 0.0  - thres :  0.1
+obj score:  0.11520081  - confidence: 0.0  - thres :  0.1
+obj score:  0.94443506  - confidence: 0.0  - thres :  0.1
+obj score:  0.9502707  - confidence: 0.0  - thres :  0.1
+obj score:  0.44535166  - confidence: 0.0  - thres :  0.1
+obj score:  0.8839524  - confidence: 0.0  - thres :  0.1
+obj score:  0.94441986  - confidence: 0.0  - thres :  0.1
+obj score:  0.6134788  - confidence: 0.0  - thres :  0.1
+obj score:  0.13275604  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 73, "framewidth": 724, "ClassName": "바게트빵", "w": 471, "ClassID": "A020112", "h": 384, "frameheight": 425, "y": -15}]
+elapsed time: 1.4610087871551514
+1
+out.shape :  (507, 3170)
+obj score:  0.671354  - confidence: 0.0  - thres :  0.1
+obj score:  0.86670345  - confidence: 0.3784275  - thres :  0.1
+obj score:  0.8751435  - confidence: 0.73969567  - thres :  0.1
+obj score:  0.98907405  - confidence: 0.0  - thres :  0.1
+obj score:  0.5332565  - confidence: 0.0  - thres :  0.1
+obj score:  0.8822033  - confidence: 0.0  - thres :  0.1
+obj score:  0.9876573  - confidence: 0.0  - thres :  0.1
+obj score:  0.51913065  - confidence: 0.0  - thres :  0.1
+obj score:  0.20261386  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 68, "framewidth": 585, "ClassName": "미나리", "w": 388, "ClassID": "A260119", "h": 362, "frameheight": 460, "y": 54}]
+elapsed time: 1.5096111297607422
+1
+out.shape :  (507, 3170)
+obj score:  0.13031147  - confidence: 0.0  - thres :  0.1
+obj score:  0.25829256  - confidence: 0.0  - thres :  0.1
+obj score:  0.94687736  - confidence: 0.65943855  - thres :  0.1
+obj score:  0.7907321  - confidence: 0.0  - thres :  0.1
+obj score:  0.9064267  - confidence: 0.0  - thres :  0.1
+obj score:  0.80411166  - confidence: 0.0  - thres :  0.1
+obj score:  0.8483185  - confidence: 0.5794998  - thres :  0.1
+obj score:  0.4439966  - confidence: 0.0  - thres :  0.1
+obj score:  0.89004517  - confidence: 0.0  - thres :  0.1
+obj score:  0.42231804  - confidence: 0.0  - thres :  0.1
+obj score:  0.198893  - confidence: 0.0  - thres :  0.1
+obj score:  0.19763796  - confidence: 0.0  - thres :  0.1
+out.shape :  (2028, 3170)
+out.shape :  (8112, 3170)
+[{"x": 33, "framewidth": 206, "ClassName": "참나물", "w": 106, "ClassID": "A260147", "h": 201, "frameheight": 253, "y": -10}]
+elapsed time: 1.4123897552490234
+1
+out.shape :  (507, 3170)
+obj score:  0.8741836  - confidence: 0.8735819  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.11526003  - confidence: 0.0  - thres :  0.1
+obj score:  0.1949244  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 924, "framewidth": 2449, "ClassName": "쑥개떡", "w": 556, "ClassID": "A240213", "h": 450, "frameheight": 1633, "y": 605}]
+elapsed time: 1.184636116027832
+1
+out.shape :  (507, 3170)
+obj score:  0.8741836  - confidence: 0.8735819  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.11526003  - confidence: 0.0  - thres :  0.1
+obj score:  0.1949244  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 924, "framewidth": 2449, "ClassName": "쑥개떡", "w": 556, "ClassID": "A240213", "h": 450, "frameheight": 1633, "y": 605}]
+elapsed time: 1.4734368324279785
+1
+out.shape :  (507, 3170)
+obj score:  0.8741836  - confidence: 0.8735819  - thres :  0.1
+out.shape :  (2028, 3170)
+obj score:  0.11526003  - confidence: 0.0  - thres :  0.1
+obj score:  0.1949244  - confidence: 0.0  - thres :  0.1
+out.shape :  (8112, 3170)
+[{"x": 924, "framewidth": 2449, "ClassName": "쑥개떡", "w": 556, "ClassID": "A240213", "h": 450, "frameheight": 1633, "y": 605}]118.67.133.131 - - [25/Feb/2021 22:47:01] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 22:53:48] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [25/Feb/2021 23:21:23] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 08:10:21] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 08:46:37] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 10:51:34] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 10:52:28] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 10:54:33] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 10:54:46] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 10:55:04] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 11:21:01] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 11:21:11] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+118.67.133.131 - - [26/Feb/2021 11:43:02] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+141.98.10.149 - - [27/Feb/2021 01:16:36] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+141.98.10.149 - - [27/Feb/2021 01:16:36] "[35m[1m  /*à     Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -

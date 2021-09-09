@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="370dp"
+    android:layout_height="270dp"
+    android:background="@drawable/pager_background">
+
+    <TextView
+        android:id="@+id/tanTv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="12dp"
+        android:text="탄수화물"
+        android:textColor="#80FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/calPb"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/calTv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="총 섭취량"
+        android:textColor="#80FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.672"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/weightTv"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/giTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="249dp"
+        android:text="지방"
+        android:textColor="#80FFFFFF"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/giTv2"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/giTv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="12dp"
+        android:text="지방"
+        android:textColor="#80FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/danTv2"
+        app:layout_constraintTop_toBottomOf="@+id/calPb"
+        tools:ignore="MissingConstraints" />
+
+    <ProgressBar
+        android:id="@+id/giPb"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="12dp"
+        android:progressDrawable="@drawable/progressbar"
+        app:layout_constraintStart_toEndOf="@+id/danPb"
+        app:layout_constraintTop_toBottomOf="@+id/giTv"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/danTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="138dp"
+        android:text="단백질"
+        android:textColor="#80FFFFFF"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/danTv2"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/danTv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="12dp"
+        android:text="단백질"
+        android:textColor="#80FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/tanTv2"
+        app:layout_constraintTop_toBottomOf="@+id/calPb"
+        tools:ignore="MissingConstraints" />
+
+    <ProgressBar
+        android:id="@+id/danPb"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:progressDrawable="@drawable/progressbar"
+        app:layout_constraintStart_toEndOf="@+id/tanPb"
+        app:layout_constraintTop_toBottomOf="@+id/danTv"
+        tools:ignore="MissingConstraints"
+        android:progress="0"/>
+
+    <ProgressBar
+        android:id="@+id/tanPb"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="12dp"
+        android:progressDrawable="@drawable/progressbar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tanTv"
+        tools:ignore="MissingConstraints"
+        android:progress="0"/>
+
+    <TextView
+        android:id="@+id/tanTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="탄수화물"
+        android:textColor="#80FFFFFF"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tanTv2"
+        tools:ignore="MissingConstraints" />
+
+    <ProgressBar
+        android:id="@+id/calPb"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="312dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="48dp"
+        android:progress="0"
+        android:progressDrawable="@drawable/progressbar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/weightTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="몸무게"
+        android:textColor="#80FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/calTv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.082"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.231"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/calTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
+        android:text="총 섭취량"
+        android:textColor="#80FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/weightTv"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/pager_border"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="5dp"
+        android:text="50kg"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/calTv"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
